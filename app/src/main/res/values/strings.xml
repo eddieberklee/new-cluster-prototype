@@ -1,0 +1,18 @@
+<resources>
+  <string name="app_name">NewClusterPrototype</string>
+  <string name="name1">Kevin</string>
+  <string name="name2">Sneha</string>
+  <string name="name3">Hari</string>
+  <string name="name4">Chris</string>
+  <string name="name5">Jon</string>
+  <string name="ago1">2h</string>
+  <string name="ago2">3h</string>
+  <string name="ago3">21m</string>
+  <string name="ago4">36m</string>
+  <string name="ago5">7h</string>
+  <string name="text1">👋</string>
+  <string name="text2">karl is back!</string>
+  <string name="text3">SF✈️NYC</string>
+  <string name="text4">👻</string>
+  <string name="text5">Shake Shack 🍔</string>
+</resources>
